@@ -1,6 +1,4 @@
-Claro, aquí tienes el texto del `README.md` en formato plano, listo para copiar y pegar:
 
----
 
 # SMS Spam Detector
 
