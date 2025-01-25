@@ -3,8 +3,7 @@
 # SMS Spam Detector
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)  
-![License](non)
+
 
 ## 📜 Description
 
@@ -120,16 +119,5 @@ Feel free to open an issue or submit a pull request for this project.
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+Non 
 
----
-
-## 🌟 Acknowledgments
-This project was made possible by:
-- The [UCI ML Repository](https://archive.ics.uci.edu/ml/index.php) for the SMS Spam Dataset.
-- The OpenAI community for guidance and support.
-```
-
----
-
-**¡Listo!** Puedes guardar este texto como `README.md` en tu proyecto. Si necesitas algo adicional, házmelo saber. 😊
