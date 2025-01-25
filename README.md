@@ -4,7 +4,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![License](non)
 
 ## 📜 Description
 
